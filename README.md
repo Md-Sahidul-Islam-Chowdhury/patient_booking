@@ -1,5 +1,19 @@
 # Patient Booking Application
 
+Patient_Booking_Application/
+├── out/
+│   ├── artifacts/
+│   │   └── Patient_Booking_jar/
+│   │       └── Patient_Booking.jar
+│   └── production/
+│       └── Patient_Booking/
+│           ├── META-INF/
+│           │   └── MANIFEST.MF
+│           ├── Appointment.class
+│           ├── Main.class
+│           ├── Patient.class
+│           ├── Physiotherapist.class
+│           └
 
 
 
